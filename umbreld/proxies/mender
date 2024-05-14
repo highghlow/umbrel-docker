@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Mender was called. Ignoring."
